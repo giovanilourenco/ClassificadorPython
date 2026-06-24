@@ -8,7 +8,8 @@ pasta = r"C:\Users\Cliente\Downloads"
 tipos = {
     "Imagens": [".jpg", ".jpeg", ".png", ".gif"],
     "Documentos": [".pdf", ".docx", ".txt", ".xlsx", ".csv"],
-    "Videos": [".mp4", ".avi", ".mvk"]
+    "Videos": [".mp4", ".avi", ".mvk"],
+    "Outros": [".py", ".ipynb", ".exe"]
 }
 
 #Percorre todos os arquivos disponíveis na pasta
