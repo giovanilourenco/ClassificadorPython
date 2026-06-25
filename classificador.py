@@ -2,7 +2,8 @@ import os
 import shutil
 
 #Caminho que será organizado
-pasta = r"C:\Users\Cliente\Downloads"
+#pasta = r"C:\Users\Cliente\Downloads"
+pasta = os.getcwd()
 
 #Extensões
 tipos = {
