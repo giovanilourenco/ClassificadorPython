@@ -1,6 +1,6 @@
 # 📂 Organizador de Arquivos com Python
 
-Automação simples desenvolvida em Python para organizar arquivos automaticamente em categorias de acordo com sua extensão.
+Automação simples desenvolvida em Python para classificar e organizar arquivos automaticamente de acordo com sua extensão.
 
 ## 💻Funcionalidades
 * Organiza arquivos automaticamente em pastas específicas.
@@ -19,26 +19,26 @@ Exibe no terminal quais arquivos foram movidos.
 
 ## 🗃️ Estrutura
 Antes da execução:
-Downloads/
-├── foto.jpg
-├── curriculo.pdf
-├── video.mp4
-├── script.py
+Downloads/ <br>
+├── foto.jpg <br>
+├── curriculo.pdf <br>
+├── video.mp4 <br>
+├── script.py <br>
 
 Após a execução:
 
-Downloads/
-├── Imagens/
-│   └── foto.jpg
-│
-├── Documentos/
-│   └── curriculo.pdf
-│
-├── Videos/
-│   └── video.mp4
-│
-└── Outros/
-    └── script.py
+Downloads/ <br>
+├── Imagens/ <br>
+│   └── foto.jpg <br>
+│ <br>
+├── Documentos/ <br>
+│   └── curriculo.pdf <br>
+│<br>
+├── Videos/<br>
+│   └── video.mp4<br>
+│<br>
+└── Outros/<br>
+    └── script.py<br>
 
 ## 📚 Aprendizados
 
@@ -51,9 +51,9 @@ Durante o desenvolvimento deste projeto foram praticados conceitos de:
 * Automação de tarefas
 
 # 💻 Como Utilizar
-1. Copie o arquivo organizador.py para a pasta que deseja organizar.
+1. Copie o arquivo classificador.py para a pasta que deseja organizar.
 2. Execute o script:
-- python organizador.py
+- python classificador.py
 3. O programa identificará automaticamente o diretório atual e organizará os arquivos em categorias.
 
 O caminho é obtido automaticamente utilizando:
