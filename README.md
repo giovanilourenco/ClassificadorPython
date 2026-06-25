@@ -56,6 +56,8 @@ Durante o desenvolvimento deste projeto foram praticados conceitos de:
 - python classificador.py
 3. O programa identificará automaticamente o diretório atual e organizará os arquivos em categorias.
 
+<img src='gif.gif'></img>
+
 O caminho é obtido automaticamente utilizando:
 - pasta = os.getcwd()
 Assim, o usuário não precisa editar o código para escolher a pasta a ser organizada.
